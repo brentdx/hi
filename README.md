@@ -1,6 +1,7 @@
 # Brent Davis
 In a world of mindless emails, slacks and DM's, the written word is often undervalued. I contend that writing with passion, intention and efficiency (PIE) is critical to motivating and aligning action - and why I felt important to have a README covering who I am.
 
+'''jason
 {
   "name": "Brent Davis",
   "role": "Building products and teams that create trust and liquidity",
