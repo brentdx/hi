@@ -1,4 +1,3 @@
-Brent Davis' Portfolio
 In a world of mindless emails, slacks, and DMs, the written word is often undervalued. I contend that writing with passion, intention, and efficiency (PIE) is critical to motivating and aligning action - and that's why I felt it important to include a README highlighting... me.
 
 json
