@@ -11,7 +11,11 @@ Copy code
 Betwise (Oopsy #2)
 After hundreds of (cold call, cold DM) conversations across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting data industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
-Our first product was a sports creator marketplace. While we attracted hundreds of creators to build their memberships with us and generated $10k monthly GMV, we ultimately had trouble monetizing it. So I designed a next-generation mobile game meets sports betting: a free-to-play game with a premium subscription to data and other tricks to win. The vision was to onboard the next 100m bettors who like sports but traditionally don't bet and monetize them through alternate means. But unfortunately, we ran out of capital before we could complete the pivot.
+Our First Product
+A sports creator marketplace. While we attracted hundreds of creators to build their memberships with us and generated $10k monthly GMV, we ultimately had trouble monetizing it.
+
+Pivot to Next-Generation Mobile Game
+A free-to-play game with a premium subscription to data and other tricks to win. The vision was to onboard the next 100m bettors who like sports but traditionally don't bet and monetize them through alternate means. Unfortunately, we ran out of capital before we could complete the pivot.
 
 Lesson: Raise more than you think you'll need.
 
@@ -23,11 +27,14 @@ Unfortunately, while the theater operators could dynamically move movies around 
 Lesson: Design your product talking with your end user, not just the person that's going to pay for it.
 
 Home Computer Helpers (Exit)
-In middle school (year 2000), I co-founded a marketplace to help bridge the technology gap with older generations. We got A+ technical certifications ourselves, and then acquired tech-savvy college kids to be our "tutors," training them on service to help older generations with their tech setup and any lessons. Our main "job to be done" was essentially recognizing that while many kids were annoyed at helping their parents with tech work, they'd happily get paid to teach a stranger. And parents were happy to pay to not be yelled at by their kids. We invested $1k each and ended up selling for $10k each to a parent in our school.
+In middle school (year 2000), I co-founded a marketplace to help bridge the technology gap with older generations. We got A+ technical certifications ourselves, and then acquired tech-savvy college kids to be our "tutors," training them on service to help older generations with their tech setup and any lessons.
+
+Our Main "Job to Be Done"
+Recognizing that while many kids were annoyed at helping their parents with tech work, they'd happily get paid to teach a stranger. And parents were happy to pay to not be yelled at by their kids. We invested $1k each and ended up selling for $10k each to a parent in our school.
 
 Snap
-As one of the first 15 business hires at Snap, I humbly take credit for convincing Evan to share data with external parties to build our business. I subsequently hired and led teams across monetization products, marketing sciences, creative best practices, and product marketing. I also led an eight-figure acquisition to augment our ad targeting solutions. I was at least a barnacle on the ship from $0 to $1b, quickly designing and building products that delighted our business partners.
+As one of the first 15 business hires at Snap, I humbly take credit for convincing Evan to share data with external parties to build our business. I subsequently hired and led teams across monetization products, marketing sciences, creative best practices, and product marketing. I also led an eight-figure acquisition to augment our ad targeting solutions.
+
+I was at least a barnacle on the ship from $0 to $1b, quickly designing and building products that delighted our business partners.
 
 I have many more triumphs and scars, but I hope this gives a sense of who I am. Cheers!
-
-Feel free to copy this formatted version into your README.md file.
