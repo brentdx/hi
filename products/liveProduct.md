@@ -1,8 +1,8 @@
 Our live product can be found at betwise.club. But my favorite sellers are:
 
-betwise.club/sidelinesources
-betwise.club/kelseyfarese
-betwise.club/d_buckets
+[betwise.club/sidelinesources](url)
+[betwise.club/kelseyfarese](url)
+[betwise.club/d_buckets](url)
 
 Our payment and memberships services are integrated with our proprietary Discord bot.
 
