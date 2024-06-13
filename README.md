@@ -12,7 +12,7 @@ After hundreds of conversations (cold calls, cold DMs) across the sports betting
 
 ### Our First Product
 
-A sports creator marketplace. While we attracted hundreds of creators to build their memberships with us and generated $10k monthly GMV, we ultimately had trouble monetizing it.
+A sports creator marketplace. While we attracted hundreds of creators to build their memberships with us and generated $25k monthly GMV, we ultimately had trouble monetizing it.
 
 ### Pivot to Next-Generation Mobile Game
 
