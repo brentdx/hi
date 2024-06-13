@@ -8,7 +8,7 @@ In a world of mindless emails, slacks, and DMs, the written word is often underv
 
 ## Betwise (Oopsy #2)
 
-After hundreds of (cold call, cold DM) conversations across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
+After hundreds of conversations (cold calls, cold DMs) across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
 ### Our First Product
 
