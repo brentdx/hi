@@ -4,7 +4,7 @@ We process thousands of emails, slacks, and DMs daily. In pursuit of speed, the 
 
 **Name:** Brent Davis  
 **Role:** Building products and teams that create trust and drive liquidity  
-**Bio:** I love problems for which there is no map other than the customer signal. I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR) and MRC Data. Please enjoy a few of my stories.
+**Bio:** I love problems for which there is no map other than the customer signal. I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR) and MRC Data. I'm a proud new dad, retired painter whose work traveled the world with Sotheby's, and award-winning screenwriter (Method Festival).
 
 ## Betwise
 
