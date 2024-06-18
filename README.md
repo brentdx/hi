@@ -6,8 +6,7 @@ We process thousands of emails, slacks, and DMs daily. In pursuit of speed, the 
 **Role:** Building products and teams that create trust and drive liquidity  
 **Bio:** Hello! I'm Brent. I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR). I love problems for which there is no map other than the customer signal.
 
-## 
-Betwise (Learning #2)
+## Betwise (Learning #2)
 
 After hundreds of conversations (cold calls, cold DMs) across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
