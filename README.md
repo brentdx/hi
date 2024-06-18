@@ -1,6 +1,6 @@
 # Brent Davis' Portfolio
 
-In a world of mindless emails, slacks, and DMs, the written word is often undervalued. I contend that writing with passion, intention, and efficiency (PIE) is critical to motivating and aligning action, and a delicious treat :)
+We process thousands of emails, slacks, and DMs daily. In pursuit of speed, the written word is often undervalued. I contend that writing with passion, intention, and efficiency (PIE) is critical to motivating and aligning action, and a delicious treat :)
 
 **Name:** Brent Davis  
 **Role:** Building products and teams that create trust and drive liquidity  
