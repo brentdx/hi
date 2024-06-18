@@ -1,12 +1,12 @@
 # Brent Davis' Portfolio
 
-In a world of mindless emails, slacks, and DMs, the written word is often undervalued. I contend that writing with passion, intention, and efficiency (PIE) is critical to motivating and aligning action.
+In a world of mindless emails, slacks, and DMs, the written word is often undervalued. I contend that writing with passion, intention, and efficiency (PIE) is critical to motivating and aligning action, and a delicious treat :)
 
 **Name:** Brent Davis  
 **Role:** Building products and teams that create trust and drive liquidity  
-**Bio:** Hello! I'm Brent. I'm a 3x founder (1 exit, 2 oopsies), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR). I love problems for which there is no map other than the customer constellations.
+**Bio:** Hello! I'm Brent. I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR). I love problems for which there is no map other than the customer signal.
 
-## Betwise (Oopsy #2)
+## Betwise (Learning #2)
 
 After hundreds of conversations (cold calls, cold DMs) across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
@@ -20,7 +20,7 @@ A free-to-play game with a premium subscription to data and other tricks to win.
 
 **Lesson:** Raise more than you think you'll need.
 
-## Reel Intel (Oopsy #1)
+## Reel Intel (Learning #1)
 
 In 2013, my friend and I built a genetic algorithm that produced optimal movie schedules for exhibitors (theater owners). Our product actually worked - initial in-market tests showed we could create 2% more revenue with 0 incremental costs.
 
