@@ -6,7 +6,7 @@ We process thousands of emails, slacks, and DMs daily. In pursuit of speed, the 
 **Role:** Building products and teams that create trust and drive liquidity  
 **Bio:** Hello! I'm Brent. I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led product at Wave.tv ($25m ARR). I love problems for which there is no map other than the customer signal.
 
-## Betwise (Learning #2)
+## Betwise
 
 After hundreds of conversations (cold calls, cold DMs) across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
@@ -20,7 +20,7 @@ A free-to-play game with a premium subscription to data and other tricks to win.
 
 **Lesson:** Raise more than you think you'll need.
 
-## Reel Intel (Learning #1)
+## Reel Intel
 
 In 2013, my friend and I built a genetic algorithm that produced optimal movie schedules for exhibitors (theater owners). Our product actually worked - initial in-market tests showed we could create 2% more revenue with 0 incremental costs.
 
@@ -28,7 +28,7 @@ Unfortunately, while the theater operators could dynamically move movies around 
 
 **Lesson:** Design your product talking with your end user, not just the person that's going to pay for it.
 
-## Home Computer Helpers (Exit)
+## Home Computer Helpers
 
 In middle school (year 2000), I co-founded a marketplace to help bridge the technology gap with older generations. We got A+ technical certifications ourselves, and then acquired tech-savvy college kids to be our "tutors," training them on service to help older generations with their tech setup and any lessons.
 
