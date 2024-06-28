@@ -4,7 +4,7 @@ I'm a 3x founder (1 exit, 2 learnings), first 15 business hire at Snap, and led 
 
 ## Betwise
 
-After hundreds of conversations (cold calls, cold DMs) across the sports betting world, it was clear to me the economic landscape was changing fast: sportsbooks' acquisition costs (CACs) were rising as the risk-seeking bettor market reaches its limit, which means sports creators who drove much of that growth are making less in affiliate fees. Meanwhile, the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
+The macro conditions of sports betting landscape are changing fast: (1) sportsbooks' (DraftKings, Fan Duel) acquisition costs are rising as the risk-seeking bettor market reaches its limit. That means (2) sports affiliates who drove much of that growth are making less in affiliate fees. Meanwhile, (3) the entire betting _data_ industry had been so focused on AI black boxes that they made customer relationships transactional without any experiential component.
 
 ### Our First Product
 
