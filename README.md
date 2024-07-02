@@ -18,7 +18,7 @@ A free-to-play game with a premium subscription to data and other tricks to win.
 
 ## Snap
 
-As one of the first 15 business hires at Snap, I humbly take credit for convincing Evan to share data with external parties to build our business. I subsequently hired and led teams across monetization products, marketing sciences, creative best practices, and product marketing. I also led an eight-figure acquisition to augment our ad targeting solutions.
+As one of the first 15 business hires at Snap, I humbly take credit for convincing Evan to share data with external parties to build our business. I subsequently built ad monetization products and led an eight-figure acquisition to augment our ad targeting solutions. I was lucky to be able to build out marketing science and creative best practices functions. My last year I tackled SMB Growth, launching an education portal that helped onboard our first 20k small businesses.
 
 I was at least a barnacle on the ship from $0 to $1b, quickly designing and building products that delighted our business partners.
 
