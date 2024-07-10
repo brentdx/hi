@@ -1,6 +1,6 @@
 # Hi
 
-I'm Brent. I like empowering people with tools to grow their businesses and have fun. I'm a proud new dad. When I was 8 one of my paintings traveled the world with Sotheby's, and in high school I won a screenwriting award. It's all been downhill from there.
+I'm Brent. I like giving people tools to grow their businesses and have fun. I'm a proud new dad. When I was 8 one of my paintings traveled the world with Sotheby's, and in high school I won a screenwriting award. It's all been downhill from there.
 
 **Some things I've done**
 - Please make yourself at home. This GH Repo hosts the outputs of some of my work.
