@@ -12,4 +12,4 @@ I'm Brent. I like empowering people with tools to grow their businesses and have
 - The goal is not to avoid mistakes; the goal is to achieve uncorrelated levels of excellence in some dimension.
 
 **Some things I've done**
-Please make yourself at home. You'll find some highlights from my career.
+- Please make yourself at home. You'll find some highlights from my career.
