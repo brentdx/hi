@@ -8,7 +8,7 @@ I'm Brent. I like empowering people with tools to grow their businesses and have
 - [Website](https://brentdavis.xyz)
 
 
-**Some things I believe:**
+**Some things I believe**
 - It's easier to try to raise the ceiling and build for 100 people than raise the floor and try to build for 1m people. But raising the floor is more a legacy play.
 - It's much easier to work on things that are exciting to you.
 - One week is 2% of the year so work with speed but don't hurry.
