@@ -13,5 +13,5 @@ I'm Brent. I like empowering people with tools to grow their businesses and have
 
 **Some things I've done**
 - Please make yourself at home. You'll find some highlights from my career.
-- [Linkedin]([url](https://www.linkedin.com/in/brent--davis/))
+- [Linkedin](https://www.linkedin.com/in/brent--davis/)
 - [Website](https://brentdavis.xyz)
